@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">prueba2</string>
+
+    <string name="key_api">AIzaSyAfXw6utyxQ31PvV13Q0sr-dAvgJJdoVQU</string>
+    <string name="label_from">Direccion Origen: </string>
+    <string name="label_to">Direccion Destino: </string>
+    <string name="btn_change">Cambiar direccion</string>
+    <string name="label_distance">Distancia:</string>
+    <string name="label_time">Tiempo:</string>
+    <string name="label_price">Valor:</string>
+    <string name="marker_title_from">Origen</string>
+    <string name="marker_title_to">Hasta</string>
+</resources>
